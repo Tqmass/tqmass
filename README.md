@@ -4,7 +4,7 @@
         <img src="https://readme-typing-svg.herokuapp.com/?color=ffffff&size=35&center=true&vCenter=true&width=1000&lines=¡Bienvenido/a+a+mi+perfil+de+GitHub!;Estoy+explorando+esta+plataforma.;" alt="Typing SVG">
     </a>
   </h1>
-  <p>¡Hola!,<br/> soy un chico de 19 años aprendiendo a programar Java en Minecraft ☄️</p>
+  <p>¡Hola!,<br/> Soy un chico de 19 años aprendiendo a programar Java en Minecraft ☄️</p>
 
 <h2>🔧 Estadísticas de GitHub</h2>
 <img src="https://github-readme-stats.vercel.app/api?username=Tqmass&show_icons=true&count_private=true&hide_border=true&title_color=7FFFD4&icon_color=7FFFD4&text_color=c9d1d9&bg_color=0d1117" height="150" alt="Tqmass GitHub" /> 
