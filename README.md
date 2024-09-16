@@ -23,8 +23,8 @@
   <img src="https://skillicons.dev/icons?i=css" height="40" alt="CSS logo" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=python" height="40" alt="Python logo" />
-  <img src="https://skillicons.dev/icons?i=discord" height="40" alt="Discord logo" />
   <img width="12" />
+  <img src="https://skillicons.dev/icons?i=discord" height="40" alt="Discord logo" />
 </div>
 
 <!-- <h2>📚 Information</h2>
