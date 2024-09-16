@@ -7,8 +7,8 @@
   <p>¡Hola!,<br/> Soy un chico de 19 años aprendiendo a programar Java en Minecraft ☄️</p>
 
 <h2>🔧 Estadísticas de GitHub</h2>
-<img src="https://github-readme-stats.vercel.app/api?username=Tqmass&show_icons=true&count_private=true&hide_border=true&title_color=7FFFD4&icon_color=7FFFD4&text_color=c9d1d9&bg_color=0d1117" height="150" alt="Tqmass GitHub" /> 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tqmass&layout=compact&hide_border=true&title_color=7FFFD4&text_color=7FFFD4&bg_color=0d1117" height="150" alt="Tqmass lenguajes" />
+<img src="https://github-readme-stats-git-master-tqmass-projects.vercel.app/api?username=Tqmass&show_icons=true&count_private=true&hide_border=true&title_color=7FFFD4&icon_color=7FFFD4&text_color=c9d1d9&bg_color=0d1117" height="150" alt="Tqmass GitHub" /> 
+<img src="https://github-readme-stats-git-master-tqmass-projects.vercel.app/api/top-langs/?username=Tqmass&layout=compact&hide_border=true&title_color=7FFFD4&text_color=7FFFD4&bg_color=0d1117" height="150" alt="Tqmass lenguajes" />
 
 <h2>⛏️ Lenguajes y herramientas</h2>
 <div>
