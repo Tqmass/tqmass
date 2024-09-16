@@ -1,8 +1,6 @@
 <div align="left">
   <h1>
-    <a href="https://git.io/typing-svg">
-        <img src="https://readme-typing-svg.herokuapp.com/?color=ffffff&size=35&center=true&vCenter=true&width=1000&lines=¡Bienvenido/a a mi perfil de GitHub!.;" alt="Typing SVG">
-    </a>
+    [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=008DF7&width=435&lines=%C2%A1Bienvenido%2Fa+a+mi+perfil+de+GitHub!)](https://git.io/typing-svg)
   </h1>
   <p>¡Hola!,<br/> soy un chico de 19 años aprendiendo a programar Java en Minecraft ☄️</p>
 
