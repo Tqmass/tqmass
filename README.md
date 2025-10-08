@@ -1,45 +1,21 @@
-<div align="left">
-  <h1>
-    <a href="https://git.io/typing-svg">
-        <img src="https://readme-typing-svg.herokuapp.com/?color=ffffff&size=35&center=true&vCenter=true&width=1000&lines=¡Bienvenido/a+a+mi+perfil+de+GitHub!;Estoy+explorando+esta+plataforma.;" alt="Typing SVG">
-    </a>
-  </h1>
-  <p>¡Hola!,<br/> Soy un chico de 19 años aprendiendo a programar en Minecraft ☄️</p>
-
-<h2>🔧 Estadísticas de GitHub</h2>
-<img src="https://github-readme-stats-git-master-tqmass-projects.vercel.app/api?username=Tqmass&show_icons=true&count_private=true&hide_border=true&title_color=7FFFD4&icon_color=7FFFD4&text_color=c9d1d9&bg_color=0d1117" height="150" alt="Tqmass GitHub" /> 
-<img src="https://github-readme-stats-git-master-tqmass-projects.vercel.app/api/top-langs/?username=Tqmass&layout=compact&hide_border=true&title_color=7FFFD4&text_color=7FFFD4&bg_color=0d1117" height="150" alt="Tqmass lenguajes" />
-
-<h2>⛏️ Lenguajes y herramientas</h2>
-<div>
-  <img src="https://skillicons.dev/icons?i=java" height="40" alt="Java logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=bots" height="40" alt="Discord Bots logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=discordjs" height="40" alt="DiscordJS logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=html" height="40" alt="HTML logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=css" height="40" alt="CSS logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=python" height="40" alt="Python logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=discord" height="40" alt="Discord logo" />
-</div>
-
-<!-- <h2>📚 Information</h2>
-<ul>
-  <li>🌙 I’m currently learning Kotlin and JavaScript</li>
-  <li>🧭 How to reach me <strong>no.wacho</strong></li>
-</ul>
+<p align="center">
+	<img src="assets/Banner.png" alt="Banner" />
+</p>
 
 <p align="center">
-    <a href="https://discord.com/users/1079614475717586945" target="_blank" rel="nofollow">
-        <img src="https://lanyard-profile-readme.vercel.app/api/1079614475717586945?&animated=true&borderRadius=30px&idleMessage=Nothing..." alt="Discord Presence" align="center">
-    </a>
-</p> -->
+  <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github">
+  <img src="https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code">
+	<img src="https://img.shields.io/badge/-IntelliJ%20IDEA-black?style=flat-square&logo=jetbrains" alt="IntelliJ IDEA" />
+</p>
 
-<br/>
-<br/>
-
-[![](https://visitcount.itsvg.in/api?id=Tqmass&label=Visitas%20del%20Perfil&color=12&icon=6&pretty=false)](https://visitcount.itsvg.in)
+<p align="center">
+  <a href="http://youtube.com/users/@tqmass">
+		<img src="https://img.shields.io/badge/Youtube-F52727?style=for-the-badge&logo=youtube&logoColor=white" />
+	</a>
+	<a href="http://discordapp.com/users/965368002721747015">
+		<img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+	</a>
+  <a href="mailto:iryugadev@gmail.com">
+		<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+	</a>
+</p>
