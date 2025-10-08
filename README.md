@@ -1,14 +1,9 @@
 <p align="center">
-  <img src="assets/Banner.png" alt="Banner">
-</p>
-
----
-
-<h1 align="center">
+  <img src="assets/Banner.png" alt="Banner"> <br/><br/>
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=1000&color=4A4BF7&center=true&vCenter=true&random=false&width=800&lines=¡Bienvenido/a+a+mi+perfil+de+GitHub!;Minecraft+Server+Developer.;Aprendiendo+cosas+nuevas." />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=300&size=32&duration=3000&pause=1000&color=4BF27B&center=true&vCenter=true&random=false&width=800&lines=¡Bienvenido/a+a+mi+perfil+de+GitHub!;Minecraft+Server+Developer.;Aprendiendo+cosas+nuevas." />
   </a>
-</h1>
+</p>
 
 <h2 align="center">🚀 Sobre mí</h2>
 
