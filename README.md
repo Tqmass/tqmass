@@ -49,10 +49,12 @@ tengo <strong>20 años</strong> y soy de <strong>España, Barcelona</strong>
 
 <h3 align="center">⚙️ Infraestructura & DevOps</h3>
 <p align="center">
-  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
-  <img src="https://img.shields.io/badge/VPS-FF8800?style=for-the-badge&logo=linux&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pterodactyl-1E293B?style=for-the-badge&logo=pterodactyl&logoColor=white" />
+  <img src="https://img.shields.io/badge/Ubuntu-E67E22?style=for-the-badge&logo=ubuntu&logoColor=white" />
+  <img src="https://img.shields.io/badge/VPS-F1C40F?style=for-the-badge&logo=linux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-3498DB?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pterodactyl-8E44AD?style=for-the-badge&logo=pterodactyl&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" />
+  <img src="https://img.shields.io/badge/GoDaddy-7DB700?style=for-the-badge&logo=godaddy&logoColor=white" />
 </p>
 
 <h3 align="center">🧰 Herramientas</h3>
