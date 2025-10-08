@@ -86,7 +86,7 @@ tengo <strong>20 años</strong> y soy de <strong>España, Barcelona</strong>
 <h2 align="center">📫 Conecta conmigo</h2>
 
 <p align="center">
-  <a href="http://youtube.com/users/@tqmass">
+  <a href="https://www.youtube.com/@Tqmass">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
   </a>
   <a href="http://discordapp.com/users/965368002721747015">
