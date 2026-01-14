@@ -87,8 +87,6 @@ tengo <strong>20 años</strong> y soy de <strong>España, Barcelona</strong>
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Tqmass/tqmass/output/pacman-contribution-graph.svg">
 </picture>
 
-_generated with [abozanona/pacman-contribution-graph](https://abozanona.github.io/pacman-contribution-graph/)_
-
 <h2 align="left">📫 Conecta conmigo</h2>
 
 <p align="left">
