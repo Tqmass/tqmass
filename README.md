@@ -1,37 +1,37 @@
-<p align="center">
+<p align="left">
   <img src="assets/Banner.png" alt="Banner"> <br/><br/>
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=300&size=32&duration=3000&pause=1000&color=4BF27B&center=true&vCenter=true&random=false&width=800&lines=¡Bienvenido/a+a+mi+perfil+de+GitHub!;Minecraft+Server+Developer.;Aprendiendo+cosas+nuevas." />
   </a>
 </p>
 
-<h2 align="center">🚀 Sobre mí</h2>
+<h2 align="left">🚀 Sobre mí</h2>
 
-<p align="center">
+<p align="left">
 👋 Hola, soy <strong>Anghelo</strong> más conocido como <strong>Tqmass</strong>, <br>
 tengo <strong>20 años</strong> y soy de <strong>España, Barcelona</strong>
 </p>
 
-<p align="center">
+<p align="left">
 💻 Me dedico a configurar y programar servidores de <strong>Minecraft</strong><br>
 ☕ Trabajo con <strong>Java, TypeScript, PHP, Node.js</strong> y <strong>Bases de datos</strong><br>
 🚀 Todavía estoy en aprendizaje y mejorando mis <strong>skills</strong><br>
 🎮 Apasionado por crear experiencias de juego únicas y optimizadas
 </p>
 
-<h2 align="center">🎯 Actualmente</h2>
+<h2 align="left">🎯 Actualmente</h2>
 
-<p align="center">
+<p align="left">
 🔨 Desarrollando plugins personalizados para Minecraft<br>
 📚 Aprendiendo sobre arquitecturas de servidores<br>
 ⚡ Refactorizando y reprogramando plugins conocidos<br>
 🤖 Creando bots de Discord sincronizados con Minecraft
 </p>
 
-<h2 align="center">💼 Stack Tecnológico</h2>
+<h2 align="left">💼 Stack Tecnológico</h2>
 
-<h3 align="center">💻 Lenguajes de Programación</h3>
-<p align="center">
+<h3 align="left">💻 Lenguajes de Programación</h3>
+<p align="left">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
@@ -40,15 +40,15 @@ tengo <strong>20 años</strong> y soy de <strong>España, Barcelona</strong>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 </p>
 
-<h3 align="center">🗄️ Bases de Datos</h3>
-<p align="center">
+<h3 align="left">🗄️ Bases de Datos</h3>
+<p align="left">
   <img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
   <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
 </p>
 
-<h3 align="center">⚙️ Infraestructura & DevOps</h3>
-<p align="center">
+<h3 align="left">⚙️ Infraestructura & DevOps</h3>
+<p align="left">
   <img src="https://img.shields.io/badge/Ubuntu-E67E22?style=for-the-badge&logo=ubuntu&logoColor=white" />
   <img src="https://img.shields.io/badge/VPS-F1C40F?style=for-the-badge&logo=linux&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-3498DB?style=for-the-badge&logo=docker&logoColor=white" />
@@ -57,8 +57,8 @@ tengo <strong>20 años</strong> y soy de <strong>España, Barcelona</strong>
   <img src="https://img.shields.io/badge/GoDaddy-7DB700?style=for-the-badge&logo=godaddy&logoColor=white" />
 </p>
 
-<h3 align="center">🧰 Herramientas</h3>
-<p align="center">
+<h3 align="left">🧰 Herramientas</h3>
+<p align="left">
   <img src="https://img.shields.io/badge/Spigot-FF9800?style=for-the-badge&logo=spigotmc&logoColor=white" />
   <img src="https://img.shields.io/badge/Discord.js-7289DA?style=for-the-badge&logo=discord&logoColor=white" />
   <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white" />
@@ -67,29 +67,31 @@ tengo <strong>20 años</strong> y soy de <strong>España, Barcelona</strong>
   <img src="https://img.shields.io/badge/GitHub-181700?style=for-the-badge&logo=github&logoColor=white" />
 </p>
 
-<h2 align="center">📊 Estadísticas de GitHub</h2>
+<h2 align="left">📊 Estadísticas de GitHub</h2>
 
-<p align="center">
+<p align="left">
   <img width="49%" src="https://github-readme-stats-git-master-tqmass-projects.vercel.app/api?username=Tqmass&show_icons=true&count_private=true&hide_border=true&title_color=4A4BF7&icon_color=4A4BF7&text_color=c9d1d9&bg_color=0d1117&rank_icon=github" alt="GitHub Stats" />
   <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Tqmass&hide_border=true&background=0d1117&stroke=4A4BF7&ring=4A4BF7&fire=4A4BF7&currStreakLabel=c9d1d9&sideNums=c9d1d9&currStreakNum=c9d1d9&dates=c9d1d9&sideLabels=c9d1d9" alt="GitHub Streak" />
 </p>
 
-<p align="center">
+<p align="left">
   <img width="49%" src="https://github-readme-stats-git-master-tqmass-projects.vercel.app/api/top-langs/?username=Tqmass&layout=compact&hide_border=true&title_color=4A4BF7&text_color=c9d1d9&bg_color=0d1117&langs_count=8" alt="Top Languages" />
   <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=Tqmass&theme=react-dark&hide_border=true&bg_color=0d1117&color=4A4BF7&line=4A4BF7&point=c9d1d9" alt="Activity Graph" />
 </p>
 
-<h2 align="center">📈 Workflow GitHub</h2>
+<h2 align="left">📈 Workflow GitHub</h2>
 
 <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/[USERNAME]/[USERNAME]/output/pacman-contribution-graph-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/[USERNAME]/[USERNAME]/output/pacman-contribution-graph.svg">
-    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/[USERNAME]/[USERNAME]/output/pacman-contribution-graph.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Tqmass/tqmass/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Tqmass/tqmass/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Tqmass/tqmass/output/pacman-contribution-graph.svg">
 </picture>
 
-<h2 align="center">📫 Conecta conmigo</h2>
+_generated with [abozanona/pacman-contribution-graph](https://abozanona.github.io/pacman-contribution-graph/)_
 
-<p align="center">
+<h2 align="left">📫 Conecta conmigo</h2>
+
+<p align="left">
   <a href="https://www.youtube.com/@Tqmass">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
   </a>
@@ -101,10 +103,10 @@ tengo <strong>20 años</strong> y soy de <strong>España, Barcelona</strong>
   </a>
 </p>
 
-<p align="center">
+<p align="left">
   <img src="https://komarev.com/ghpvc/?username=Tqmass&color=4A4BF7&style=for-the-badge&label=Visitas+al+perfil" alt="Profile Views" />
 </p>
 
-<p align="center">
+<p align="left">
   <i>💡 "El código es como el humor. Cuando tienes que explicarlo, es malo." - Cory House</i>
 </p>
