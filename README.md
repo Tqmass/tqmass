@@ -79,11 +79,13 @@ tengo <strong>20 años</strong> y soy de <strong>España, Barcelona</strong>
   <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=Tqmass&theme=react-dark&hide_border=true&bg_color=0d1117&color=4A4BF7&line=4A4BF7&point=c9d1d9" alt="Activity Graph" />
 </p>
 
-<h2 align="center">🏆 Logros de GitHub</h2>
+<h2 align="center">📈 Workflow GitHub</h2>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Tqmass&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies" />
-</p>
+<picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/[USERNAME]/[USERNAME]/output/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/[USERNAME]/[USERNAME]/output/pacman-contribution-graph.svg">
+    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/[USERNAME]/[USERNAME]/output/pacman-contribution-graph.svg">
+</picture>
 
 <h2 align="center">📫 Conecta conmigo</h2>
 
