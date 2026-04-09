@@ -9,23 +9,22 @@
 
 <p align="left">
 👋 Hola, soy <strong>Anghelo</strong> más conocido como <strong>Tqmass</strong>, <br>
-tengo <strong>20 años</strong> y soy de <strong>España, Barcelona</strong>
+tengo <strong>20 años</strong>, actualmente vivo en <strong>España</strong>
 </p>
 
 <p align="left">
-💻 Me dedico a configurar y programar servidores de <strong>Minecraft</strong><br>
-☕ Trabajo con <strong>Java, TypeScript, PHP, Node.js</strong> y <strong>Bases de datos</strong><br>
-🚀 Todavía estoy en aprendizaje y mejorando mis <strong>skills</strong><br>
-🎮 Apasionado por crear experiencias de juego únicas y optimizadas
+💻 Me he apasionado por configurar y programar servidores de <strong>Minecraft</strong><br>
+☕ He tocado un poco de <strong>Java, TypeScript, PHP, Node.js</strong> y <strong>Bases de datos</strong><br>
+🎮 Me apasiona crear experiencias de juego únicas y algo diferentes al resto.
 </p>
 
 <h2 align="left">🎯 Actualmente</h2>
 
 <p align="left">
-🔨 Desarrollando plugins personalizados para Minecraft<br>
-📚 Aprendiendo sobre arquitecturas de servidores<br>
-⚡ Refactorizando y reprogramando plugins conocidos<br>
-🤖 Creando bots de Discord sincronizados con Minecraft
+🔨 Desarrollando mini plugins personalizados para Minecraft<br>
+📚 Aprendiendo más sobre IntelliJ Idea, Maven y Spigot<br>
+⚡ Aprendiendo más sobreclonar repositorios, compilarlos e incluso descompilar proyectos.<br>
+☑️ Actualmente me encuentro estudiando una FP Profesional (DAW - Desarrollo de Aplicaciones Web)
 </p>
 
 <h2 align="left">💼 Stack Tecnológico</h2>
@@ -33,18 +32,15 @@ tengo <strong>20 años</strong> y soy de <strong>España, Barcelona</strong>
 <h3 align="left">💻 Lenguajes de Programación</h3>
 <p align="left">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 </p>
 
 <h3 align="left">🗄️ Bases de Datos</h3>
 <p align="left">
   <img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
 </p>
 
 <h3 align="left">⚙️ Infraestructura & DevOps</h3>
@@ -52,19 +48,18 @@ tengo <strong>20 años</strong> y soy de <strong>España, Barcelona</strong>
   <img src="https://img.shields.io/badge/Ubuntu-E67E22?style=for-the-badge&logo=ubuntu&logoColor=white" />
   <img src="https://img.shields.io/badge/VPS-F1C40F?style=for-the-badge&logo=linux&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-3498DB?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pterodactyl-8E44AD?style=for-the-badge&logo=pterodactyl&logoColor=white" />
   <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" />
   <img src="https://img.shields.io/badge/GoDaddy-7DB700?style=for-the-badge&logo=godaddy&logoColor=white" />
 </p>
 
 <h3 align="left">🧰 Herramientas</h3>
 <p align="left">
+  <img src="https://img.shields.io/badge/GitHub-181700?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/Spigot-FF9800?style=for-the-badge&logo=spigotmc&logoColor=white" />
-  <img src="https://img.shields.io/badge/Discord.js-7289DA?style=for-the-badge&logo=discord&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pterodactyl-8E44AD?style=for-the-badge&logo=pterodactyl&logoColor=white" />
   <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white" />
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181700?style=for-the-badge&logo=github&logoColor=white" />
 </p>
 
 <h2 align="left">📊 Estadísticas de GitHub</h2>
@@ -90,9 +85,6 @@ tengo <strong>20 años</strong> y soy de <strong>España, Barcelona</strong>
 <h2 align="left">📫 Conecta conmigo</h2>
 
 <p align="left">
-  <a href="https://www.youtube.com/@Tqmass">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
-  </a>
   <a href="http://discordapp.com/users/965368002721747015">
     <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
   </a>
