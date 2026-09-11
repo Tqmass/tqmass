@@ -9,7 +9,7 @@
 
 <p align="left">
 👋 Hola, soy <strong>Anghelo</strong> más conocido como <strong>Tqmass</strong>, <br>
-tengo <strong>20 años</strong>, actualmente vivo en <strong>España</strong>
+tengo <strong>21 años</strong>, actualmente vivo en <strong>España</strong>
 </p>
 
 <p align="left">
@@ -21,10 +21,8 @@ tengo <strong>20 años</strong>, actualmente vivo en <strong>España</strong>
 <h2 align="left">🎯 Actualmente</h2>
 
 <p align="left">
-🔨 Desarrollando mini plugins personalizados para Minecraft<br>
-📚 Aprendiendo más sobre IntelliJ Idea, Maven y Spigot<br>
-⚡ Aprendiendo más sobreclonar repositorios, compilarlos e incluso descompilar proyectos.<br>
-☑️ Actualmente me encuentro estudiando una FP Profesional (DAW - Desarrollo de Aplicaciones Web)
+🔨 Desarrollando y actualizando un captura la lana de Minecraft que llevo años retocando.<br>
+☑️ Actualmente me encuentro trabajando de desarrollador fullstack.
 </p>
 
 <h2 align="left">💼 Stack Tecnológico</h2>
